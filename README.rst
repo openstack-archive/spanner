@@ -36,7 +36,7 @@ editor. You will want to customize several settings:
 
 And enable it in Horizon::
 
-    cp ../spanner/_50_spanner.py.example openstack_dashboard/local/enabled/_50_spanner.py
+    cp ../spanner/_99_spanner.py.example openstack_dashboard/local/enabled/_99_spanner.py
 
 
 Starting the app
