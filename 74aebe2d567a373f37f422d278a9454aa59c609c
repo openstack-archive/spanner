@@ -1,0 +1,8 @@
+Verified+2: Jenkins
+Code-Review+2: Liuqing Jing <lawrancejing@gmail.com>
+Workflow+1: Liuqing Jing <lawrancejing@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 15 Dec 2015 03:45:26 +0000
+Reviewed-on: https://review.openstack.org/257665
+Project: openstack/spanner
+Branch: refs/heads/master
