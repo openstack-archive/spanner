@@ -44,7 +44,7 @@ Starting the app
 
 If everything has gone according to plan, you should be able to run::
 
-    ./run_tests.sh --runserver 0.0.0.0:9000
+    ./run_tests.sh --runserver 0.0.0.0:8080
 
 and have the application start on port 8080. The horizon dashboard will
 be located at http://localhost:8080/
